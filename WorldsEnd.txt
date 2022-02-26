@@ -1,0 +1,12 @@
+[world]
+name=WorldsEnd
+version=1.42
+wos=A94
+author=Fred Spade
+author_email=p_ffilc@yahoo.co.uk
+author_url=https://fredspade.github.io/Worlds-End
+home_url=https://fredspade.github.io/Worlds-End
+zip_url=https://github.com/FredSpade/Worlds-End/raw/master/WorldsEnd.zip
+ini_url=https://fredspade.github.io/Worlds-End
+status=Beta
+
